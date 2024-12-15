@@ -59,6 +59,32 @@ void Error_Handler(void);
 /* Private defines -----------------------------------------------------------*/
 #define led_Pin GPIO_PIN_13
 #define led_GPIO_Port GPIOC
+#define STBY_Pin GPIO_PIN_4
+#define STBY_GPIO_Port GPIOA
+#define INT_Pin GPIO_PIN_12
+#define INT_GPIO_Port GPIOB
+#define AIN2_Pin GPIO_PIN_13
+#define AIN2_GPIO_Port GPIOB
+#define BIN1_Pin GPIO_PIN_14
+#define BIN1_GPIO_Port GPIOB
+#define BIN2_Pin GPIO_PIN_15
+#define BIN2_GPIO_Port GPIOB
+#define AIN1_Pin GPIO_PIN_8
+#define AIN1_GPIO_Port GPIOA
+#define PWMA_Pin GPIO_PIN_15
+#define PWMA_GPIO_Port GPIOA
+#define PWMB_Pin GPIO_PIN_3
+#define PWMB_GPIO_Port GPIOB
+#define A1_Pin GPIO_PIN_4
+#define A1_GPIO_Port GPIOB
+#define B1_Pin GPIO_PIN_5
+#define B1_GPIO_Port GPIOB
+#define A2_Pin GPIO_PIN_6
+#define A2_GPIO_Port GPIOB
+#define B2_Pin GPIO_PIN_7
+#define B2_GPIO_Port GPIOB
+#define CS_Pin GPIO_PIN_9
+#define CS_GPIO_Port GPIOB
 
 /* USER CODE BEGIN Private defines */
 

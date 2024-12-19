@@ -61,6 +61,7 @@ Core/Src/syscalls.c \
 Core/Src/spi.c \
 Core/Src/tim.c \
 Core/Src/usart.c \
+Core/Src/mpu6500.c\
 Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c \
 Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c
 

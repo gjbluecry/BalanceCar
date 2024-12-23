@@ -1,0 +1,12 @@
+//
+// Created by Gao Jie on 24-12-23.
+//
+
+#ifndef BALANCECAR_MPU6500_CONFIG_H
+#define BALANCECAR_MPU6500_CONFIG_H
+
+#define MPU6500_SPI hspi1
+#define MPU6500_CS_GPIO CS_GPIO_Port
+#define MPU6500_CS_PIN CS_Pin
+
+#endif //BALANCECAR_MPU6500_CONFIG_H
